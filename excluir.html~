@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="task.css" />
+		<meta charset="utf8" />
+		<title>Excluir Task</title>
+	</head>
+	<body>
+		<form>
+			<input type="button" value="Excluir" onClick="alert('Deseja realmente excluir?')">
+		</form>
+	</body>
+</html>

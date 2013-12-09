@@ -1,0 +1,17 @@
+h1{
+	background-color: gray;
+	font-size: 35px;
+	text-decoration: underline;
+}
+table{
+	background-color: gray;
+	border: 10px outset green;
+}
+td{
+	font-family: "Arial Black", sans-serif;
+	text-align: justify;
+}
+p{
+	text-align: center;
+}
+
